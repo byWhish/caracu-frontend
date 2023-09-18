@@ -1,5 +1,6 @@
 {
   "name": "caracu-frontend",
+  "homepage": "https://bywhish.github.io/caracu-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
