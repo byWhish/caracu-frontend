@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/caracu-frontend/static/css/main.073c9b0a.css",
-    "main.js": "/caracu-frontend/static/js/main.09b3c74e.js",
+    "main.css": "/caracu-frontend/static/css/main.04bbd64a.css",
+    "main.js": "/caracu-frontend/static/js/main.44779e1c.js",
     "static/js/787.712e2223.chunk.js": "/caracu-frontend/static/js/787.712e2223.chunk.js",
-    "static/media/logo.svg": "/caracu-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/caracu-frontend/index.html",
-    "main.073c9b0a.css.map": "/caracu-frontend/static/css/main.073c9b0a.css.map",
-    "main.09b3c74e.js.map": "/caracu-frontend/static/js/main.09b3c74e.js.map",
+    "main.04bbd64a.css.map": "/caracu-frontend/static/css/main.04bbd64a.css.map",
+    "main.44779e1c.js.map": "/caracu-frontend/static/js/main.44779e1c.js.map",
     "787.712e2223.chunk.js.map": "/caracu-frontend/static/js/787.712e2223.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.09b3c74e.js"
+    "static/css/main.04bbd64a.css",
+    "static/js/main.44779e1c.js"
   ]
 }
